@@ -1,11 +1,9 @@
 # Web-Socket-Example
 Sample Example an Chat application using Web sockets
 
-Create a chat Application using NodeJs and Socket Io
+Create a chat Application using NodeJs and Socket Io https://localhost:4000
 
 # To Run 
-
-# Enter Cmd 
 
 npm i
  nodemon server.js
